@@ -1,0 +1,175 @@
+@import "tailwindcss";
+@import "leaflet/dist/leaflet.css";
+
+@theme {
+  --font-serif: "Lora", Georgia, "Times New Roman", serif;
+  --font-sans: "Plus Jakarta Sans", system-ui, -apple-system, sans-serif;
+}
+
+:root {
+  --bg-page: #F5EFE6;
+  --bg-header: rgba(250, 246, 240, 0.95);
+  --bg-card: #FDFBF7;
+  --bg-soft: #FAF6F0;
+  --bg-subtle: #F1EAE0;
+  --bg-hover: #EAE0D0;
+  --bg-user-bubble: #E8E7D6;
+  --bg-bot-bubble: #F8F3EB;
+  --bg-bar: #2A221B;
+  --fg-bar: #FFFFFF;
+  --border: #E2D6C3;
+  --border-soft: #EAE0D0;
+  --fg: #2A221B;
+  --fg-muted: #574A3E;
+  --fg-subtle: #6C5E50;
+  --accent-brand: #C2531E;
+  --accent-coral: #C2531E;
+  --accent-cta-bg: #C2531E;
+  --accent-cta-hover: #A64314;
+  --accent-cta-fg: #FFFFFF;
+  --accent-sage: #637141;
+  --accent-sage-hover: #515D34;
+  --accent-sage-fg: #FFFFFF;
+  --accent-sage-soft: #ECEFDD;
+  --accent-sage-border: #D4DBBE;
+  --accent-sage-text: #3F4B25;
+  --scrollbar: #D8CBB8;
+  --scrollbar-hover: #BFAEA0;
+}
+
+/* Opción C: Slate & Sage Dark Theme */
+.dark {
+  --bg-page: #14191D;
+  --bg-header: rgba(20, 25, 29, 0.94);
+  --bg-card: #1C2328;
+  --bg-soft: #232C33;
+  --bg-subtle: #2C363F;
+  --bg-hover: #35414B;
+  --bg-user-bubble: #2A363E;
+  --bg-bot-bubble: #222B32;
+  --bg-bar: #2B363E;
+  --fg-bar: #F2F1EE;
+  --border: #33404A;
+  --border-soft: #2A343D;
+  --fg: #F2F1EE;
+  --fg-muted: #A7B5C0;
+  --fg-subtle: #8B9AA6;
+  --accent-brand: #C86442;
+  --accent-coral: #E89271;
+  --accent-cta-bg: #B5C7A3;
+  --accent-cta-hover: #C5D6B5;
+  --accent-cta-fg: #14191D;
+  --accent-sage: #B5C7A3;
+  --accent-sage-hover: #C5D6B5;
+  --accent-sage-fg: #14191D;
+  --accent-sage-soft: #25322A;
+  --accent-sage-border: #3B4E40;
+  --accent-sage-text: #C5D6B5;
+  --scrollbar: #36434D;
+  --scrollbar-hover: #4A5A67;
+}
+
+@layer base {
+  body {
+    font-family: var(--font-sans);
+    background-color: var(--bg-page);
+    color: var(--fg);
+    transition: background-color 0.2s ease, color 0.2s ease;
+  }
+
+  h1, h2, h3, .font-editorial {
+    font-family: var(--font-serif);
+  }
+}
+
+.leaflet-container {
+  font-family: var(--font-sans);
+  background: var(--bg-subtle);
+}
+
+.dark .leaflet-tile-pane {
+  filter: brightness(0.75) invert(1) contrast(1.1) hue-rotate(185deg) saturate(0.45);
+}
+
+.pamplona-pin {
+  background: transparent;
+  border: none;
+}
+
+.pamplona-pin-badge {
+  width: 30px;
+  height: 30px;
+  border-radius: 9999px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 700;
+  font-size: 13px;
+  color: #ffffff;
+  border: 2.5px solid #ffffff;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.35);
+  position: relative;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.pamplona-pin-badge::after {
+  content: "";
+  position: absolute;
+  bottom: -6px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 0;
+  height: 0;
+  border-left: 5px solid transparent;
+  border-right: 5px solid transparent;
+  border-top: 6px solid currentColor;
+}
+
+.pamplona-pin-badge.is-primary {
+  background-color: #C2531E;
+}
+.pamplona-pin-badge.is-primary::after {
+  border-top-color: #C2531E;
+}
+.dark .pamplona-pin-badge.is-primary {
+  background-color: #E89271;
+  color: #14191D;
+}
+.dark .pamplona-pin-badge.is-primary::after {
+  border-top-color: #E89271;
+}
+
+.pamplona-pin-badge.is-secondary {
+  background-color: #637141;
+}
+.pamplona-pin-badge.is-secondary::after {
+  border-top-color: #637141;
+}
+.dark .pamplona-pin-badge.is-secondary {
+  background-color: #B5C7A3;
+  color: #14191D;
+}
+.dark .pamplona-pin-badge.is-secondary::after {
+  border-top-color: #B5C7A3;
+}
+
+.pamplona-pin-badge.is-active {
+  transform: scale(1.18);
+  z-index: 999;
+}
+
+/* Custom scrollbars */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: var(--scrollbar);
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--scrollbar-hover);
+}

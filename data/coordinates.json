@@ -1,0 +1,313 @@
+{
+  "_note": "Map display coordinates (WGS84) for the React Leaflet map UI. Kept separate from the PDF RAG vector store.",
+  "akari-gastroteka": {
+    "lat": 42.806623,
+    "lng": -1.62883,
+    "neighborhood": "Soto de Lezkairu",
+    "google_maps_url": "https://maps.google.com/?cid=9955638951480714368&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "photos_url": "https://www.google.com/maps/place//data=!4m3!3m2!1s0xd5093af128bbe17:0x8a2988e10f0ce480!10e5?g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "directions_url": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0xd5093af128bbe17:0x8a2988e10f0ce480!3e0?g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "website_url": "http://www.akarigastroteka.es/",
+    "photos": [
+      "/images/places/akari-gastroteka-site.jpg"
+    ],
+    "photo_attributions": [
+      "Web oficial del restaurante"
+    ]
+  },
+  "asador-bidea-2": {
+    "lat": 42.788324,
+    "lng": -1.677547,
+    "neighborhood": "Zizur Menor",
+    "google_maps_url": "https://maps.google.com/?cid=4689644795045194226&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "photos_url": "https://www.google.com/maps/place//data=!4m3!3m2!1s0xd508df5dff55ec7:0x4114f718236da9f2!10e5?g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "directions_url": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0xd508df5dff55ec7:0x4114f718236da9f2!3e0?g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "website_url": "https://bidea2.com/",
+    "photos": [
+      "/images/places/asador-bidea-2-site.jpg"
+    ],
+    "photo_attributions": [
+      "Web oficial del restaurante"
+    ]
+  },
+  "asador-epeleta": {
+    "lat": 43.014112,
+    "lng": -1.902691,
+    "neighborhood": "Lekunberri",
+    "google_maps_url": "https://maps.google.com/?cid=16350034279355009791&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "photos_url": "https://www.google.com/maps/place//data=!4m3!3m2!1s0xd505758ee63281b:0xe2e6fd8d066a4aff!10e5?g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "directions_url": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0xd505758ee63281b:0xe2e6fd8d066a4aff!3e0?g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "website_url": "https://www.asadorepeleta.com/",
+    "photos": [
+      "/images/places/asador-epeleta-site.jpg"
+    ],
+    "photo_attributions": [
+      "Web oficial del restaurante"
+    ]
+  },
+  "babylon": {
+    "lat": 42.831219,
+    "lng": -1.590105,
+    "neighborhood": "Casco Antiguo",
+    "google_maps_url": "https://maps.google.com/?cid=16362857429874482913&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "photos_url": "https://www.google.com/maps/place//data=!4m3!3m2!1s0xd5094984ece9cfb:0xe3148c236a079ee1!10e5?g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "directions_url": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0xd5094984ece9cfb:0xe3148c236a079ee1!3e0?g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "website_url": "https://m.facebook.com/Beer-Bar-Babylon-775623419140424/",
+    "photos": [
+      "/images/places/babylon-site.jpg"
+    ],
+    "photo_attributions": [
+      "Web oficial / guía local"
+    ]
+  },
+  "burgerheim": {
+    "lat": 42.814427,
+    "lng": -1.639377,
+    "neighborhood": "Segundo Ensanche",
+    "google_maps_url": "https://maps.google.com/?cid=8362254316534944582&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "photos_url": "https://www.google.com/maps/place//data=!4m3!3m2!1s0xd5092fee1dec777:0x740cb1feea8ad346!10e5?g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "directions_url": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0xd5092fee1dec777:0x740cb1feea8ad346!3e0?g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "website_url": "https://burgerheim.com/",
+    "photos": [
+      "/images/places/burgerheim-site.jpg"
+    ],
+    "photo_attributions": [
+      "Web oficial del restaurante"
+    ]
+  },
+  "cafe-iruna": {
+    "lat": 42.817431,
+    "lng": -1.643297,
+    "neighborhood": "Plaza del Castillo",
+    "google_maps_url": "https://maps.google.com/?cid=1500447219258485088&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "photos_url": "https://www.google.com/maps/place//data=!4m3!3m2!1s0xd5092f95d6e0c01:0x14d2a8cbd41fe960!10e5?g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "directions_url": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0xd5092f95d6e0c01:0x14d2a8cbd41fe960!3e0?g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "website_url": "http://www.cafeiruna.com/",
+    "photos": [
+      "/images/places/cafe-iruna-site.jpg"
+    ],
+    "photo_attributions": [
+      "Web oficial del restaurante"
+    ]
+  },
+  "hanazono-bbq": {
+    "lat": 42.816567,
+    "lng": -1.590302,
+    "neighborhood": "Sarriguren / Olaz",
+    "google_maps_url": "https://maps.google.com/?cid=11090811348927158938&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "photos_url": "https://www.google.com/maps/place//data=!4m3!3m2!1s0xd5095486c78f8bf:0x99ea7a2903ac9a9a!10e5?g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "directions_url": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0xd5095486c78f8bf:0x99ea7a2903ac9a9a!3e0?g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "photos": [
+      "/images/places/hanazono-bbq-1.jpg",
+      "/images/places/hanazono-bbq-2.jpg"
+    ],
+    "photo_attributions": [
+      "Fotografía real (Wikimedia Commons)"
+    ]
+  },
+  "la-cocina-de-alex-mugica": {
+    "lat": 42.814194,
+    "lng": -1.632585,
+    "neighborhood": "Casco Antiguo",
+    "google_maps_url": "https://maps.google.com/?cid=13164341935801653584&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "photos_url": "https://www.google.com/maps/place//data=!4m3!3m2!1s0xd5093074f1fc2ad:0xb6b1233e313c5950!10e5?g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "directions_url": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0xd5093074f1fc2ad:0xb6b1233e313c5950!3e0?g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "website_url": "https://restauranteelcolegio.es/",
+    "photos": [
+      "/images/places/la-cocina-de-alex-mugica-site.jpg"
+    ],
+    "photo_attributions": [
+      "Web oficial / guía local"
+    ]
+  },
+  "la-loli-gastrobar": {
+    "lat": 42.797017,
+    "lng": -1.621996,
+    "neighborhood": "Mutilva",
+    "google_maps_url": "https://maps.google.com/?cid=7710615182757494912&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "photos_url": "https://www.google.com/maps/place//data=!4m3!3m2!1s0xd5093bec5125699:0x6b019ba7f7fe8080!10e5?g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "directions_url": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0xd5093bec5125699:0x6b019ba7f7fe8080!3e0?g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "website_url": "https://laloligastrobar.com/",
+    "photos": [
+      "/images/places/la-loli-gastrobar-site.jpg"
+    ],
+    "photo_attributions": [
+      "Web oficial del restaurante"
+    ]
+  },
+  "la-mudita-burger": {
+    "lat": 42.814099,
+    "lng": -1.642172,
+    "neighborhood": "Ensanche",
+    "google_maps_url": "https://maps.google.com/?cid=4219695381810744977&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "photos_url": "https://www.google.com/maps/place//data=!4m3!3m2!1s0xd5092f8b417ad39:0x3a8f5e97c52f8e91!10e5?g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "directions_url": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0xd5092f8b417ad39:0x3a8f5e97c52f8e91!3e0?g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "website_url": "http://www.lamuditaburger.com/",
+    "photos": [
+      "/images/places/la-mudita-burger-site.jpg"
+    ],
+    "photo_attributions": [
+      "Web oficial del restaurante"
+    ]
+  },
+  "meson-las-torres": {
+    "lat": 42.506024,
+    "lng": -1.499106,
+    "neighborhood": "Ujué",
+    "google_maps_url": "https://maps.google.com/?cid=11066245031927019178&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "photos_url": "https://www.google.com/maps/place//data=!4m3!3m2!1s0xd5a0ae12a6b75bb:0x999333399d70f6aa!10e5?g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "directions_url": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0xd5a0ae12a6b75bb:0x999333399d70f6aa!3e0?g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "website_url": "http://www.mesonlastorres.com/",
+    "photos": [
+      "/images/places/meson-las-torres-site.jpg"
+    ],
+    "photo_attributions": [
+      "Web oficial del restaurante"
+    ]
+  },
+  "more-than-burgers": {
+    "lat": 42.807229,
+    "lng": -1.661644,
+    "neighborhood": "Ensanche",
+    "google_maps_url": "https://maps.google.com/?cid=9091008841519625251&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "photos_url": "https://www.google.com/maps/place//data=!4m3!3m2!1s0xd509264197b00e7:0x7e29c06008b67423!10e5?g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "directions_url": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0xd509264197b00e7:0x7e29c06008b67423!3e0?g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "website_url": "http://www.morethanburgers.es/",
+    "photos": [
+      "/images/places/more-than-burgers-1.jpg",
+      "/images/places/more-than-burgers-2.jpg",
+      "/images/places/more-than-burgers-3.jpg",
+      "/images/places/more-than-burgers-4.jpg"
+    ],
+    "photo_attributions": [
+      "Web oficial More Than Burgers"
+    ]
+  },
+  "restaurante-abaco": {
+    "lat": 42.816964,
+    "lng": -1.639759,
+    "neighborhood": "Centro",
+    "google_maps_url": "https://maps.google.com/?cid=4447683280123589133&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "photos_url": "https://www.google.com/maps/place//data=!4m3!3m2!1s0xd50949840c3d73d:0x3db95860e135f20d!10e5?g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "directions_url": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0xd50949840c3d73d:0x3db95860e135f20d!3e0?g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "photos": [
+      "/images/places/restaurante-abaco-dish-2.jpg",
+      "/images/places/restaurante-abaco-dish-3.jpg",
+      "/images/places/restaurante-abaco-dish-4.jpg",
+      "/images/places/restaurante-abaco-dish-1.jpg"
+    ],
+    "photo_attributions": [
+      "Gastroactitud · Platos Restaurante Ábaco"
+    ]
+  },
+  "restaurante-alhambra": {
+    "lat": 42.812637,
+    "lng": -1.641189,
+    "neighborhood": "Segundo Ensanche",
+    "google_maps_url": "https://maps.google.com/?cid=18278266944416713541&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "photos_url": "https://www.google.com/maps/place//data=!4m3!3m2!1s0xd509255f196c213:0xfda972f18bb90b45!10e5?g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "directions_url": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0xd509255f196c213:0xfda972f18bb90b45!3e0?g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "website_url": "http://www.restaurantealhambra.es/",
+    "photos": [
+      "/images/places/restaurante-alhambra-1.jpg",
+      "/images/places/restaurante-alhambra-2.jpg",
+      "/images/places/restaurante-alhambra-3.jpg"
+    ],
+    "photo_attributions": [
+      "Web oficial Restaurante Alhambra"
+    ]
+  },
+  "restaurante-beti-jai": {
+    "lat": 42.786125,
+    "lng": -1.367723,
+    "neighborhood": "Aoiz",
+    "google_maps_url": "https://maps.google.com/?cid=11101347861635891569&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "photos_url": "https://www.google.com/maps/place//data=!4m3!3m2!1s0xd50b9fd17d7bc53:0x9a0fe9100cd98171!10e5?g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "directions_url": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0xd50b9fd17d7bc53:0x9a0fe9100cd98171!3e0?g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "website_url": "http://www.beti-jai.com/",
+    "photos": [
+      "/images/places/restaurante-beti-jai-1.jpg",
+      "/images/places/restaurante-beti-jai-2.jpg"
+    ],
+    "photo_attributions": [
+      "Restaurantes del Reyno · Beti Jai"
+    ]
+  },
+  "restaurante-cocina-vasca": {
+    "lat": 42.816395,
+    "lng": -1.644335,
+    "neighborhood": "Centro",
+    "google_maps_url": "https://maps.google.com/?cid=931199230834159990&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "photos_url": "https://www.google.com/maps/place//data=!4m3!3m2!1s0xd5092f9ad6ace15:0xcec48c448fcb176!10e5?g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "directions_url": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0xd5092f9ad6ace15:0xcec48c448fcb176!3e0?g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "website_url": "https://lacocinavasca.com/",
+    "photos": [
+      "/images/places/restaurante-cocina-vasca-dish-4.jpg",
+      "/images/places/restaurante-cocina-vasca-dish-2.jpg",
+      "/images/places/restaurante-cocina-vasca-dish-3.jpg"
+    ],
+    "photo_attributions": [
+      "Web oficial San Nicolás · La Cocina Vasca"
+    ]
+  },
+  "restaurante-europa": {
+    "lat": 42.816226,
+    "lng": -1.641803,
+    "neighborhood": "Plaza del Castillo",
+    "google_maps_url": "https://maps.google.com/?cid=13015593325941842981&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "photos_url": "https://www.google.com/maps/place//data=!4m3!3m2!1s0xd5092fecddb040f:0xb4a0ad2b9db56425!10e5?g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "directions_url": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0xd5092fecddb040f:0xb4a0ad2b9db56425!3e0?g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "website_url": "https://www.hreuropa.com/",
+    "photos": [
+      "/images/places/restaurante-europa-site.jpg"
+    ],
+    "photo_attributions": [
+      "Web oficial del restaurante"
+    ]
+  },
+  "restaurante-rodero": {
+    "lat": 42.8158,
+    "lng": -1.637253,
+    "neighborhood": "Segundo Ensanche",
+    "google_maps_url": "https://maps.google.com/?cid=3406922933336038844&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "photos_url": "https://www.google.com/maps/place//data=!4m3!3m2!1s0xd5093009a7d1635:0x2f47d25b72a05dbc!10e5?g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "directions_url": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0xd5093009a7d1635:0x2f47d25b72a05dbc!3e0?g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "website_url": "http://restauranterodero.com/",
+    "photos": [
+      "/images/places/restaurante-rodero-site.jpg"
+    ],
+    "photo_attributions": [
+      "Fotografía real del restaurante"
+    ]
+  },
+  "restaurante-tubal": {
+    "lat": 42.527666,
+    "lng": -1.674932,
+    "neighborhood": "Tafalla",
+    "google_maps_url": "https://maps.google.com/?cid=1665908092319487852&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "photos_url": "https://www.google.com/maps/place//data=!4m3!3m2!1s0xd5a77f7bf8dc849:0x171e7e956726d76c!10e5?g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "directions_url": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0xd5a77f7bf8dc849:0x171e7e956726d76c!3e0?g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "website_url": "http://www.restaurantetubal.com/",
+    "photos": [
+      "/images/places/restaurante-tubal-site.jpg"
+    ],
+    "photo_attributions": [
+      "Web oficial del restaurante"
+    ]
+  },
+  "sidreria-toki-alai": {
+    "lat": 42.998453,
+    "lng": -1.893478,
+    "neighborhood": "Lekunberri",
+    "google_maps_url": "https://maps.google.com/?cid=12332832182099107713&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "photos_url": "https://www.google.com/maps/place//data=!4m3!3m2!1s0xd5059e735a78453:0xab2705870885df81!10e5?g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "directions_url": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0xd5059e735a78453:0xab2705870885df81!3e0?g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "website_url": "https://www.sidreriatoki-alai.com/",
+    "photos": [
+      "/images/places/sidreria-toki-alai-site.jpg"
+    ],
+    "photo_attributions": [
+      "Web oficial del restaurante"
+    ]
+  }
+}
